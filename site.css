@@ -55,6 +55,7 @@ img.cover {
   border-color: #eee #ccc #ccc #eee;
   float: left;
   margin-right: 10px;
+  width: 140px;
 }
 img.lightbulb {
   padding: 4px;
