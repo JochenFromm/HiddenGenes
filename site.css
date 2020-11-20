@@ -66,7 +66,10 @@ img.lightbulb {
 }
 img.group_logo {
   padding: 4px;
-  display: inline-block;
+  float: left;
   margin-right: 10px;
   width: 100px;
+}
+div.author {
+  padding: 10px 0px;
 }
